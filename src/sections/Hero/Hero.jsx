@@ -60,7 +60,7 @@ function Hero() {
 
                     </a>
 
-                    <a href='https://https://nynerdly-world.gitbook.io/nynerdly-visuals-r-x-nynerdly-r.com' target="_blank">
+                    <a href='https://nynerdly-world.gitbook.io/nynerdly-visuals-r-x-nynerdly-r.com' target="_blank">
                         <img src={gitbookIcon} alt='Gitbook icon' />
 
                     </a>
